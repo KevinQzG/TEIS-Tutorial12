@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # TEIS-Tutorial12
-=======
+
 # 📦 Tutorial 12 - API REST con Spring Boot
 
 Este proyecto implementa una API REST de productos utilizando Spring Boot. Se desarrollan tres versiones de la API, cada una con mejoras progresivas en arquitectura, organización de datos y presentación con Swagger UI.
@@ -117,7 +116,14 @@ Muestra y documenta todos los endpoints de forma interactiva con OpenAPI 3.0.
 
 ---
 
+## 📸 Evidencias
+<img width="1511" alt="Prueba Tuto 12" src="https://github.com/user-attachments/assets/a475e148-7325-4905-beee-2baca79b759f" />
+<img width="1510" alt="Prueba Tuto 12_2" src="https://github.com/user-attachments/assets/e1bae82a-3b49-4a77-9028-84675da04ba6" />
+<img width="1510" alt="Prueba Tuto12_@" src="https://github.com/user-attachments/assets/7d4f5fdd-7389-48cc-8b9f-33c912a66104" />
+<img width="1510" alt="Prueba Tuto12_3" src="https://github.com/user-attachments/assets/0b0b7604-5c5c-48f2-b302-09c9db2e9b5f" />
+<img width="1511" alt="Prueba Tuto12_4" src="https://github.com/user-attachments/assets/a246825e-b1af-4bdf-84e7-722b6ba03fdf" />
+
+
 ## 📝 Autor
 
 - 👨‍💻 Kevin Quiroz
->>>>>>> master
